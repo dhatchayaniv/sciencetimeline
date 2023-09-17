@@ -1,1 +1,1 @@
-https://github.io/dhatchayaniv/sciencetimeline
+https://dhatchayaniv.github.io/sciencetimeline/
